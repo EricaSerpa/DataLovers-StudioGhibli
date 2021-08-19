@@ -53,7 +53,7 @@ Idades dos usuários
 
 Pensando na interação e visualização dos dados, pensamos inicialmente em trazer cards das imagens dos filmes e personagens e os filtros no inico da página.
 
-**Protótipo de baixa fidelidade**
+**Protótipo de baixa fidelidade**   e  **Protótipo de alta fidelidade**
 
 ![pagweb](https://ik.imagekit.io/vd8jwzhk56v/baixafidelidade_SsIkoNSbuB-.png)
 
@@ -62,8 +62,6 @@ As paletas de cores foi escolhida seguindo as cores da imagens selecionada para 
 ![pagweb](https://ik.imagekit.io/vd8jwzhk56v/paleta_fk6ien-sZ)
 
 ![pagweb](https://ik.imagekit.io/vd8jwzhk56v/87c0e0a4-570c-4162-a13b-d21850634174_-W64Fx80cb.jpg)
-
-**Protótipo de alta fidelidade**
 
 ![pagweb](https://ik.imagekit.io/vd8jwzhk56v/altafidelidade_YPvDbNmr07.png)
 
