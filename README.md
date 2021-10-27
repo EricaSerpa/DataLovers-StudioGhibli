@@ -130,58 +130,7 @@ Desenvolvemos pelo Forms uma pesquisa, solicitando os usu√°rios acessar nossa p√
 
 ## 6 - Desenvolvedoras
 
-Este projeto foi desenvolvido por:
 
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center"><a href="https://github.com/EricaSerpa">Erica Serpa
-            </a>
-            </th>
-      </tr>
-    </thead>
-      <th></th>
-    <tbody>
-      <tr>
-        <td align="center">
-            <a href="#">
-          <a href="https://www.linkedin.com/in/ericaserpa/">
-            <img alt="LinkedIn - Erica Serpa" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-          </a>
-        </td>
-             </tr>
-      </tbody>
-    </table>
-        <div/>
-  
-  
-  <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center"><a href="https://github.com/joiceesouza">Joice Souza
-            </a>
-            </th>
-      </tr>
-    </thead>
-      <th></th>
-    <tbody>
-      <tr>
-        <td align="center">
-            <a href="#">
-          <a href="https://www.linkedin.com/in/joicesouza-/">
-            <img alt="LinkedIn - Joice Souza" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-          </a>
-        </td>
-             </tr>
-      </tbody>
-    </table>
-        <div/>
-    
-    
-   ---
-    
     <div align="center">
   <table>
     <thead>
