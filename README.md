@@ -131,7 +131,7 @@ Desenvolvemos pelo Forms uma pesquisa, solicitando os usu√°rios acessar nossa p√
 ## 6 - Desenvolvedoras
 
 
-   
+<div align="center">
   <table>
     <thead>
       <tr>
