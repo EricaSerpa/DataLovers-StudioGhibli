@@ -64,16 +64,21 @@ Pensando na interação e visualização dos dados, pensamos inicialmente em tra
 
 **Protótipo de baixa fidelidade**   e  **Protótipo de alta fidelidade**
   
+  <br>
+  
    <img alt="prototipo" title="#prototipo" src="https://ik.imagekit.io/vd8jwzhk56v/baixafidelidade_SsIkoNSbuB-.png" width="600px">
+  
+  <br>
 
 As paletas de cores foi escolhida seguindo as cores da imagens selecionada para o fundo da página.
-
   
-   <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/paleta_fk6ien-sZ" width="600px">
+  <br>
+  
+   <img alt="paleta_cores" title="#paleta_cores" src="https://ik.imagekit.io/vd8jwzhk56v/paleta_fk6ien-sZ" width="600px">
 
    <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/87c0e0a4-570c-4162-a13b-d21850634174_-W64Fx80cb.jpg" width="600px">
   
-   <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/altafidelidade_YPvDbNmr07.png" width="600px">
+   <img alt="prototipo" title="#prototipo" src="https://ik.imagekit.io/vd8jwzhk56v/altafidelidade_YPvDbNmr07.png" width="600px">
 
 </div>
 
