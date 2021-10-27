@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Logo" title="#logo" src="https://ik.imagekit.io/vd8jwzhk56v/logo_5D1oHr1io8.png?updatedAt=1631306578498" width="600px">
+    <img alt="Logo" title="#logo" src="https://ik.imagekit.io/vd8jwzhk56v/logo_5D1oHr1io8.png?updatedAt=1631306578498" width="800px">
 </div>
 
 Acesse nosso projeto [clicando aqui](https://joiceesouza.github.io/SAP006-data-lovers/)
