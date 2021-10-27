@@ -14,7 +14,7 @@ onde se possa visualizar e manipular dados, entendendo o que o usuário necessit
 * 3 - [Desenho de interface do usuário](#Desenho-de-interface-do-usuário)
 * 4 - [Objetivos de Aprendizagem](#Objetivos-de-Aprendizagem)
 * 5 - [Testes de Usabilidade](#Testes-de-usabilidade)
-* 6 - [Autoras](#Autoras)
+* 6 - [Desenvolvedoras](#Desenvolvedoras)
 
 ## 1 - Projeto
 
@@ -121,6 +121,57 @@ Desenvolvemos pelo Forms uma pesquisa, solicitando os usuários acessar nossa p�
 - Imagens dos cards sendo reajustada para mobile
 - Fonte e ajustes nas descrições estão sendo feita para mobile
 
-## 6 - Autoras
+## 6 - Desenvolvedoras
 
 - [@ericaserpa](https://github.com/EricaSerpa)   e   [@joiceesouza](https://github.com/joiceesouza)
+
+Este projeto foi desenvolvido por:
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center"><a href="https://github.com/EricaSerpa">Erica Serpa
+            </a>
+            </th>
+      </tr>
+    </thead>
+      <th></th>
+    <tbody>
+      <tr>
+        <td align="center">
+            <a href="#">
+          <a href="https://www.linkedin.com/in/ericaserpa/">
+            <img alt="LinkedIn - Erica Serpa" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+        </td>
+             </tr>
+      </tbody>
+    </table>
+        <div/>
+  
+  
+  <div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center"><a href="https://github.com/joiceesouza">Joice Souza
+            </a>
+            </th>
+      </tr>
+    </thead>
+      <th></th>
+    <tbody>
+      <tr>
+        <td align="center">
+            <a href="#">
+          <a href="https://www.linkedin.com/in/joicesouza-/">
+            <img alt="LinkedIn - Joice Souza" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+        </td>
+             </tr>
+      </tbody>
+    </table>
+        <div/>
+        
+        
