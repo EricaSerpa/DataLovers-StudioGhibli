@@ -66,7 +66,7 @@ As paletas de cores foi escolhida seguindo as cores da imagens selecionada para 
 
 ![pagweb](https://ik.imagekit.io/vd8jwzhk56v/paleta_fk6ien-sZ)
 
-![pagweb](https://ik.imagekit.io/vd8jwzhk56v/87c0e0a4-570c-4162-a13b-d21850634174_-W64Fx80cb.jpg)
+![pagweb](https://ik.imagekit.io/vd8jwzhk56v/87c0e0a4-570c-4162-a13b-d21850634174_-W64Fx80cb.jpg = 250x)
 
 ![pagweb](https://ik.imagekit.io/vd8jwzhk56v/altafidelidade_YPvDbNmr07.png)
 
