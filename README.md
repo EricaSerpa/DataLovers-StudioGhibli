@@ -1,6 +1,6 @@
-<h3 align="center">
+<div align="center">
     <img alt="Logo" title="#logo" src="https://ik.imagekit.io/vd8jwzhk56v/logo_5D1oHr1io8.png?updatedAt=1631306578498" width="600px">
-</h3>
+</div>
 
 Acesse nosso projeto [clicando aqui](https://joiceesouza.github.io/SAP006-data-lovers/)
 
@@ -33,7 +33,9 @@ Ao definir nosso tema buscamos entender quem eram os usuários e suas necessidad
 
 Idades dos usuários
 
-![img](https://ik.imagekit.io/vd8jwzhk56v/Idades_Knm36ykJq.png)
+<div align="center">
+   <img alt="grafico" title="#grafico" src="https://ik.imagekit.io/vd8jwzhk56v/Idades_Knm36ykJq.png" width="600px">
+</div>
 
 
 
@@ -58,9 +60,9 @@ Idades dos usuários
 
 Pensando na interação e visualização dos dados, pensamos inicialmente em trazer cards das imagens dos filmes e personagens e os filtros no inico da página.
 
-**Protótipo de baixa fidelidade**   e  **Protótipo de alta fidelidade**
-
 <div align="center">
+
+**Protótipo de baixa fidelidade**   e  **Protótipo de alta fidelidade**
   
    <img alt="prototipo" title="#prototipo" src="https://ik.imagekit.io/vd8jwzhk56v/baixafidelidade_SsIkoNSbuB-.png" width="600px">
 
