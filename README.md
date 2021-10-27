@@ -131,7 +131,7 @@ Desenvolvemos pelo Forms uma pesquisa, solicitando os usu√°rios acessar nossa p√
 ## 6 - Desenvolvedoras
 
 
-    <div align="center">
+   
   <table>
     <thead>
       <tr>
@@ -173,12 +173,3 @@ Desenvolvemos pelo Forms uma pesquisa, solicitando os usu√°rios acessar nossa p√
     </tbody>
   </table>
 </div>
-
-<p align="right">
-  <a href="#topo">
-  ‚¨Ü Voltar ao topo
- </a>
-</p>
-
-        
-        
