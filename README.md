@@ -64,15 +64,12 @@ Pensando na interação e visualização dos dados, pensamos inicialmente em tra
   
    <img alt="prototipo" title="#prototipo" src="https://ik.imagekit.io/vd8jwzhk56v/baixafidelidade_SsIkoNSbuB-.png" width="600px">
 
-
-![pagweb](https://ik.imagekit.io/vd8jwzhk56v/baixafidelidade_SsIkoNSbuB-.png)
-
 As paletas de cores foi escolhida seguindo as cores da imagens selecionada para o fundo da página.
 
   
    <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/paleta_fk6ien-sZ" width="600px">
 
-   <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/87c0e0a4-570c-4162-a13b-d21850634174_-W64Fx80cb.jpg" width="650px">
+   <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/87c0e0a4-570c-4162-a13b-d21850634174_-W64Fx80cb.jpg" width="600px">
   
    <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/altafidelidade_YPvDbNmr07.png" width="600px">
 
@@ -124,7 +121,11 @@ Git e GitHub
 Desenvolvemos pelo Forms uma pesquisa, solicitando os usuários acessar nossa página através de um desktop, tablet ou mobile, usando todas as funcionabilidades proposta para teste e nos retornando feedback ou sugestões de melhorias.
 
 **Retorno dos usuários**
-![teste](https://ik.imagekit.io/vd8jwzhk56v/responsividade_yhNzYI7S9Y.png)
+
+  <div align="center">
+   <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/responsividade_yhNzYI7S9Y.png" width="600px">
+  </div>
+  
 - 100% acharam que o site não demorou carregar;
 - 100% não tiveram dificuldade ao usar os filtros;
 - 98% não tiveram nenhum questão em visualizar as imagens;
