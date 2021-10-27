@@ -157,7 +157,7 @@ Desenvolvemos pelo Forms uma pesquisa, solicitando os usu√°rios acessar nossa p√
           <a href="https://github.com/EricaSerpa">
             <img alt="GitHub - Erica Serpa" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
           </a>
-          <a href="linkedin.com/in/ericaserpa">
+          <a href="https://www.linkedin.com/in/ericaserpa/">
             <img alt="LinkedIn - Erica Serpa" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
           </a>
         </td>
