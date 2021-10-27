@@ -16,6 +16,8 @@ onde se possa visualizar e manipular dados, entendendo o que o usuário necessit
 * 5 - [Testes de Usabilidade](#Testes-de-usabilidade)
 * 6 - [Desenvolvedoras](#Desenvolvedoras)
 
+---
+
 ## 1 - Projeto
 
 Projeto proposto no bootcamp da [Laboratória](https://www.laboratoria.la/br).
@@ -23,6 +25,7 @@ Proposta do projeto, construir uma página web para visualizar um conjunto (set)
 
 Nosso tema escolhido foi Studio Ghibli e terá uma página web pensando nos usuários que gostam e admiram os filmes e que permita visualizar dados dos filmes e personagens, filtrá-los, ordená-los e mostrar uma média de informação que seja relevante ao usuário (cálculo agregado).
 
+---
 
 ## 2 - Experiência dos Usuários
 
@@ -49,7 +52,7 @@ Idades dos usuários
 - Adicionar filmes e informações sobre eles
 - Inserir busca e filtros para facilitar a busca das informações
 
-
+---
 
 ## 3 - Desenho de interface do usuário
 
@@ -67,6 +70,7 @@ As paletas de cores foi escolhida seguindo as cores da imagens selecionada para 
 
 ![pagweb](https://ik.imagekit.io/vd8jwzhk56v/altafidelidade_YPvDbNmr07.png)
 
+---
 
 ## 4 - Objetivos de Aprendizagem
 
@@ -106,6 +110,7 @@ Git e GitHub
 * Gerenciar repositórios de GitHub (clone | fork | gh-pages)
 * Colaboração no Github (branches | pull requests | |tags)
 
+---
 
 ## 5 - Testes de usabilidade
 Desenvolvemos pelo Forms uma pesquisa, solicitando os usuários acessar nossa página através de um desktop, tablet ou mobile, usando todas as funcionabilidades proposta para teste e nos retornando feedback ou sugestões de melhorias.
@@ -121,9 +126,9 @@ Desenvolvemos pelo Forms uma pesquisa, solicitando os usuários acessar nossa p�
 - Imagens dos cards sendo reajustada para mobile
 - Fonte e ajustes nas descrições estão sendo feita para mobile
 
-## 6 - Desenvolvedoras
+---
 
-- [@ericaserpa](https://github.com/EricaSerpa)   e   [@joiceesouza](https://github.com/joiceesouza)
+## 6 - Desenvolvedoras
 
 Este projeto foi desenvolvido por:
 
@@ -173,5 +178,58 @@ Este projeto foi desenvolvido por:
       </tbody>
     </table>
         <div/>
+    
+    
+   ---
+    
+    <div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Erica Serpa</th>
+        <th align="center">Joice Souza</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="#">
+            <img src="https://avatars.githubusercontent.com/u/83040250?v=4" width="100px;" alt="Foto da Erica Serpa no GitHub"/><br>
+          </a>
+        </td>
+        <td align="center">
+          <a href="#">
+            <img src="https://avatars.githubusercontent.com/u/83086898?v=4" width="100px;" alt="Foto da Joice Souza no GitHub"/><br>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/EricaSerpa">
+            <img alt="GitHub - Erica Serpa" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
+          </a>
+          <a href="linkedin.com/in/ericaserpa">
+            <img alt="LinkedIn - Erica Serpa" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/joiceesouza">
+            <img alt="GitHub - Joice Souza" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
+          </a>
+          <a href="https://www.linkedin.com/in/joicesouza-/">
+            <img alt="LinkedIn - Joice Souza" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p align="right">
+  <a href="#topo">
+  ⬆ Voltar ao topo
+ </a>
+</p>
+
         
         
