@@ -68,11 +68,11 @@ Pensando na interação e visualização dos dados, pensamos inicialmente em tra
   
    <img alt="prototipo" title="#prototipo" src="https://ik.imagekit.io/vd8jwzhk56v/baixafidelidade_SsIkoNSbuB-.png" width="600px">
   
-  <br>
-
-As paletas de cores foi escolhida seguindo as cores da imagens selecionada para o fundo da página.
   
   <br>
+  
+  
+As paletas de cores foi escolhida seguindo as cores da imagens selecionada para o fundo da página.
   
    <img alt="paleta_cores" title="#paleta_cores" src="https://ik.imagekit.io/vd8jwzhk56v/paleta_fk6ien-sZ" width="600px">
 
