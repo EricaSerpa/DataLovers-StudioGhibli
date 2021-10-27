@@ -60,23 +60,21 @@ Pensando na interação e visualização dos dados, pensamos inicialmente em tra
 
 **Protótipo de baixa fidelidade**   e  **Protótipo de alta fidelidade**
 
+<div align="center">
+  
+   <img alt="prototipo" title="#prototipo" src="https://ik.imagekit.io/vd8jwzhk56v/baixafidelidade_SsIkoNSbuB-.png" width="600px">
 
 
 ![pagweb](https://ik.imagekit.io/vd8jwzhk56v/baixafidelidade_SsIkoNSbuB-.png)
 
 As paletas de cores foi escolhida seguindo as cores da imagens selecionada para o fundo da página.
 
-<div align="center">
   
-  <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/paleta_fk6ien-sZ" width="650px">
+   <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/paleta_fk6ien-sZ" width="600px">
 
-![pagweb](https://ik.imagekit.io/vd8jwzhk56v/paleta_fk6ien-sZ)
-
- <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/87c0e0a4-570c-4162-a13b-d21850634174_-W64Fx80cb.jpg" width="650px">
-
-![pagweb](https://ik.imagekit.io/vd8jwzhk56v/altafidelidade_YPvDbNmr07.png)
+   <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/87c0e0a4-570c-4162-a13b-d21850634174_-W64Fx80cb.jpg" width="650px">
   
- <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/altafidelidade_YPvDbNmr07.png" width="650px">
+   <img alt="background" title="#background" src="https://ik.imagekit.io/vd8jwzhk56v/altafidelidade_YPvDbNmr07.png" width="600px">
 
 </div>
 
