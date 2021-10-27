@@ -1,8 +1,11 @@
 <div align="center">
     <img alt="Logo" title="#logo" src="https://ik.imagekit.io/vd8jwzhk56v/logo_5D1oHr1io8.png?updatedAt=1631306578498" width="800px">
-</div>
+  
+   <br/>
 
 Acesse nosso projeto [clicando aqui](https://joiceesouza.github.io/SAP006-data-lovers/)
+  
+  </div>
 
 O objetivo principal deste projeto é que aprenda a desenhar e construir uma interface web
 onde se possa visualizar e manipular dados, entendendo o que o usuário necessita.
@@ -60,16 +63,18 @@ Idades dos usuários
 
 Pensando na interação e visualização dos dados, pensamos inicialmente em trazer cards das imagens dos filmes e personagens e os filtros no inico da página.
 
+ <br/>
+
 <div align="center">
 
 **Protótipo de baixa fidelidade**   e  **Protótipo de alta fidelidade**
   
-  <br>
+  <br/>
   
    <img alt="prototipo" title="#prototipo" src="https://ik.imagekit.io/vd8jwzhk56v/baixafidelidade_SsIkoNSbuB-.png" width="600px">
   
   
-  <br>
+  <br/>
   
   
 As paletas de cores foi escolhida seguindo as cores da imagens selecionada para o fundo da página.
