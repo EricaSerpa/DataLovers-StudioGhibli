@@ -20,7 +20,7 @@ onde se possa visualizar e manipular dados, entendendo o que o usuário necessit
 * 6 - [Desenvolvedoras](#Desenvolvedoras)
 
 ---
-
+<a id="Projeto"></a> 
 ## 1 - Projeto
 
 Projeto proposto no bootcamp da [Laboratória](https://www.laboratoria.la/br).
@@ -29,7 +29,7 @@ Proposta do projeto, construir uma página web para visualizar um conjunto (set)
 Nosso tema escolhido foi Studio Ghibli e terá uma página web pensando nos usuários que gostam e admiram os filmes e que permita visualizar dados dos filmes e personagens, filtrá-los, ordená-los e mostrar uma média de informação que seja relevante ao usuário (cálculo agregado).
 
 ---
-
+<a id="Experiência-dos-Usuários"></a> 
 ## 2 - Experiência dos Usuários
 
 Ao definir nosso tema buscamos entender quem eram os usuários e suas necessidades, realizamos uma pesquisa usando o Forms para obter mais informações, o que gostariam de ver, ou saber na página web.
@@ -58,7 +58,7 @@ Idades dos usuários
 - Inserir busca e filtros para facilitar a busca das informações
 
 ---
-
+<a id="Desenho-de-interface-do-usuário"></a> 
 ## 3 - Desenho de interface do usuário
 
 Pensando na interação e visualização dos dados, pensamos inicialmente em trazer cards das imagens dos filmes e personagens e os filtros no inico da página.
@@ -88,7 +88,7 @@ As paletas de cores foi escolhida seguindo as cores da imagens selecionada para 
 </div>
 
 ---
-
+<a id="Objetivos-de-Aprendizagem"></a> 
 ## 4 - Objetivos de Aprendizagem
 
 Neste projeto foi utilizado 
@@ -128,7 +128,7 @@ Git e GitHub
 * Colaboração no Github (branches | pull requests | |tags)
 
 ---
-
+<a id="Testes-de-usabilidade"></a> 
 ## 5 - Testes de usabilidade
 Desenvolvemos pelo Forms uma pesquisa, solicitando os usuários acessar nossa página através de um desktop, tablet ou mobile, usando todas as funcionabilidades proposta para teste e nos retornando feedback ou sugestões de melhorias.
 
@@ -148,7 +148,7 @@ Desenvolvemos pelo Forms uma pesquisa, solicitando os usuários acessar nossa p�
 - Fonte e ajustes nas descrições estão sendo feita para mobile
 
 ---
-
+<a id="Desenvolvedoras"></a> 
 ## 6 - Desenvolvedoras
 
 
